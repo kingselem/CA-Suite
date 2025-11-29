@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/CA-Suite-Project/CA-Suite/media/videos/parametric_box/480p15/partial_movie_files/ParametricBox/1185818338_631603123_223132457.mp4'
+file 'file:C:/CA-Suite-Project/CA-Suite/media/videos/parametric_box/480p15/partial_movie_files/ParametricBox/624642324_3276124848_3558194300.mp4'
+file 'file:C:/CA-Suite-Project/CA-Suite/media/videos/parametric_box/480p15/partial_movie_files/ParametricBox/624642324_2844360058_1249549820.mp4'

@@ -1,0 +1,6 @@
+{
+    "project_name": "OmniCube",
+    "side_length": 90.0,
+    "hole_diameter": 10.0,
+    "material_density": 2.7
+}
